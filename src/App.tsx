@@ -30,7 +30,7 @@ function App() {
       <div className="card">
         <button
           onClick={() =>
-            WebApp.showAlert(`Hello World! Current count is ${count}`)
+            WebApp.showAlert(`Hello TMA! Current count is ${count}`)
           }
         >
           Show Alert
